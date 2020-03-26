@@ -26,7 +26,7 @@ int min = 101;
         if (a[j][i] < min)
             min = a[j][i];
     }
-    printf("\ncolumn %d min = %d    \n",i, min );
+    printf("\ncolumn %d min = %d\n",i, min );
     min = 101;
   }
 
